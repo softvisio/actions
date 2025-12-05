@@ -22,8 +22,8 @@ jobs:
 
     steps:
       - uses: softvisio/actions/publish@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         # with:
         #   tag_name: ${{ github.ref }}
 
