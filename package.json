@@ -1,0 +1,20 @@
+{
+    "name": "actions",
+    "private": true,
+    "description": "GitHub actions",
+    "keywords": [
+        "softvisio",
+        "github actions"
+    ],
+    "homepage": "https://github.com/softvisio/deb",
+    "bugs": {
+        "url": "https://github.com/softvisio/deb/issues",
+        "email": "root <root@softvisio.net>"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/softvisio/deb.git"
+    },
+    "license": "Proprietary Software",
+    "author": "root <root@softvisio.net>"
+}
