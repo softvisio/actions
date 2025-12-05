@@ -3,11 +3,19 @@ description: Publish action
 
 runs:
   using: composite
+
+  container:
+    image: ghcr.io/zerocluster/node
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   steps:
-    - uses: actions/setup-node@v6
-      with:
-        node-version: lts/*
-        registry-url: https://registry.npmjs.org
+    - uses: actions/checkout@v6
+
+    # - uses: actions/setup-node@v6
+    #   with:
+    #     node-version: lts/*
+    #     registry-url: https://registry.npmjs.org
 
     - name: Update npm
       shell: bash

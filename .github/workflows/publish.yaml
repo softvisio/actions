@@ -14,9 +14,13 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
 
+    # container:
+    #   image: ghcr.io/zerocluster/node
+    #   env:
+    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
       - uses: softvisio/actions/publish@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
