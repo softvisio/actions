@@ -15,4 +15,4 @@ runs:
       run: |
         npm install -g npm@latest
         npm install -g @softvisio/cli
-        softvisio-cli package publish
+        softvisio-cli package publish --yes
