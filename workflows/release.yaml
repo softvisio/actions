@@ -1,13 +1,10 @@
-name: publish-package
+name: release-package
 
 on:
   push:
     tags:
       - "v[0-9]+.[0-9]+.[0-9]+"
       - "v[0-9]+.[0-9]+.[0-9]+-*"
-  # release:
-  #   types:
-  #     - released
 
 permissions:
   id-token: write # required for OIDC
@@ -18,4 +15,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: softvisio/actions/publish@main
+      - uses: softvisio/actions/release@main

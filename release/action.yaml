@@ -1,5 +1,5 @@
-name: Publish Action
-description: Publish action
+name: Release Action
+description: Release action
 
 runs:
   using: composite
