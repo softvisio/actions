@@ -8,4 +8,10 @@ runs:
     - shell: bash
       run: |
         npm install -g npm@latest
-        echo "//npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}" >> ~/.npmrc
+
+        echo "//registry.npmjs.org/:_authToken = \${NPM_TOKEN_NPMJS}" >> ~/.npmrc
+        echo "//npm.pkg.github.com/:_authToken = \${NPM_TOKEN_GITHUB}" >> ~/.npmrc
+
+        if [[ -z "${NPM_TOKEN_GITHUB:-}" && -n "${GITHUB_TOKEN:-}" ]]; then
+          export NPM_TOKEN_GITHUB=$GITHUB_TOKEN
+        fi
