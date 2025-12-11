@@ -15,5 +15,5 @@ runs:
         EOF
 
         if [[ -z "${NPM_TOKEN_GITHUB:-}" && -n "${GITHUB_TOKEN:-}" ]]; then
-          echo "NPM_TOKEN_GITHUB=\$GITHUB_TOKEN" >> $GITHUB_ENV
+          echo "NPM_TOKEN_GITHUB=$GITHUB_TOKEN" >> $GITHUB_ENV
         fi
