@@ -10,8 +10,8 @@ runs:
         npm install -g npm@latest
 
         cat << EOF >> ~/.npmrc
-        //registry.npmjs.org/:_authToken = \${NPM_TOKEN_NPMJS}"
-        //npm.pkg.github.com/:_authToken = \${NPM_TOKEN_GITHUB}"
+        //registry.npmjs.org/:_authToken = \${NPM_TOKEN_NPMJS}
+        //npm.pkg.github.com/:_authToken = \${NPM_TOKEN_GITHUB}
         EOF
 
         if [[ -z "${NPM_TOKEN_GITHUB:-}" && -n "${GITHUB_TOKEN:-}" ]]; then
