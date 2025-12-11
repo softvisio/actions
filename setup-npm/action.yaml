@@ -15,3 +15,7 @@ runs:
         if [[ -z "${NPM_TOKEN_GITHUB:-}" && -n "${GITHUB_TOKEN:-}" ]]; then
           export NPM_TOKEN_GITHUB=$GITHUB_TOKEN
         fi
+
+        echo ------------------------------------
+        cat ~/.npmrc
+        echo $NPM_TOKEN_GITHUB
