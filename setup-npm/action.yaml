@@ -11,9 +11,5 @@ runs:
 
         cat << EOF >> ~/.npmrc
         //registry.npmjs.org/:_authToken = \${NPM_TOKEN_NPMJS}
-        //npm.pkg.github.com/:_authToken = \${NPM_TOKEN_GITHUB}
+        //npm.pkg.github.com/:_authToken = \${GITHUB_TOKEN}
         EOF
-
-        if [[ -z "${NPM_TOKEN_GITHUB:-}" && -n "${GITHUB_TOKEN:-}" ]]; then
-          echo "NPM_TOKEN_GITHUB=$GITHUB_TOKEN" >> $GITHUB_ENV
-        fi
