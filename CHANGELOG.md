@@ -1,0 +1,39 @@
+# Changelog
+
+### v0.1.0 (2026-01-03)
+
+**New features:**
+
+- \[MINOR] feat: add publish workflow (● [4db570d](https://github.com/softvisio/actions/commit/4db570d); 👬 zdm)
+
+- \[MINOR] feat: add release action (● [0735b41](https://github.com/softvisio/actions/commit/0735b41); 👬 zdm)
+
+**Bug fixes:**
+
+- \[PATCH] fix: add inputs to setup-node (● [55b3037](https://github.com/softvisio/actions/commit/55b3037); 👬 zdm)
+
+- \[PATCH] fix: fix setup-npm action (● [6bdc96f](https://github.com/softvisio/actions/commit/6bdc96f), [b56e962](https://github.com/softvisio/actions/commit/b56e962), [bfc5265](https://github.com/softvisio/actions/commit/bfc5265), [0da9c07](https://github.com/softvisio/actions/commit/0da9c07), [003f050](https://github.com/softvisio/actions/commit/003f050), [cd3c0b9](https://github.com/softvisio/actions/commit/cd3c0b9); 👬 zdm)
+
+- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [315fc72](https://github.com/softvisio/actions/commit/315fc72); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: refactor cli dependabot options (● [1578a84](https://github.com/softvisio/actions/commit/1578a84); 👬 zdm)
+
+- \[PATCH] refactor: refactor release action (● [d2493a5](https://github.com/softvisio/actions/commit/d2493a5); 👬 zdm)
+
+- \[PATCH] refactor: update publish action (● [b135250](https://github.com/softvisio/actions/commit/b135250); 👬 zdm)
+
+- \[PATCH] refactor: update release action (● [191c5f0](https://github.com/softvisio/actions/commit/191c5f0); 👬 zdm)
+
+**Other changes:**
+
+- chore: add depandabot (● [89e44b5](https://github.com/softvisio/actions/commit/89e44b5), [76a8f4d](https://github.com/softvisio/actions/commit/76a8f4d), [c7d72b7](https://github.com/softvisio/actions/commit/c7d72b7), [c98178e](https://github.com/softvisio/actions/commit/c98178e); 👬 zdm)
+
+- chore: add setup-npm action (● [ad972bf](https://github.com/softvisio/actions/commit/ad972bf), [171d31b](https://github.com/softvisio/actions/commit/171d31b); 👬 zdm)
+
+- chore: init (● [400736a](https://github.com/softvisio/actions/commit/400736a), [e4794da](https://github.com/softvisio/actions/commit/e4794da), [14729f7](https://github.com/softvisio/actions/commit/14729f7), [d3e78ee](https://github.com/softvisio/actions/commit/d3e78ee), [4a449eb](https://github.com/softvisio/actions/commit/4a449eb), [06918bc](https://github.com/softvisio/actions/commit/06918bc), [1691e21](https://github.com/softvisio/actions/commit/1691e21), [e4660a3](https://github.com/softvisio/actions/commit/e4660a3), [af6c60a](https://github.com/softvisio/actions/commit/af6c60a); 👬 zdm)
+
+- chore: update cli config (● [cb8cf14](https://github.com/softvisio/actions/commit/cb8cf14); 👬 zdm)
+
+- chore(metadata): update package metadata (● [f58e62f](https://github.com/softvisio/actions/commit/f58e62f), [d408d0d](https://github.com/softvisio/actions/commit/d408d0d); 👬 zdm)
