@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.0.0 (2026-01-03)
+
+**Migration notes:**
+
+See the list of the breaking changes below for details.
+
+**Breaking changes:**
+
+- \[MAJOR] feat!: public release (● [5819ead](https://github.com/softvisio/actions/commit/5819ead); 👬 zdm)
+
+Compare with the previous release: [v0.1.0](https://github.com/softvisio/actions/compare/v0.1.0...v1.0.0)
+
 ### v0.1.0 (2026-01-03)
 
 **New features:**
