@@ -1,10 +1,26 @@
 name: Setup nodejs Action
 description: Setup nodejs action
 
+inputs:
+  node-version:
+    description: "Version Spec of the version to use. Examples: 12.x, 10.15.1, >=10.15.0."
+    default: "lts/*"
+
+  architecture:
+    description: "Target architecture for Node to use. Examples: x86, x64. Will use system architecture by default."
+
+  check-latest:
+    description: "Set this option if you want the action to check for the latest available version that satisfies the version spec."
+    default: true
+
 runs:
   using: composite
 
   steps:
     - uses: actions/setup-node@v6
       with:
-        node-version: lts/*
+        node-version: "${{ inputs.node-version }}"
+        architecture: "${{ inputs.architecture }}"
+        check-latest: "${{ inputs.check-latest }}"
+
+    - uses: softvisio/actions/setup-npm@main
