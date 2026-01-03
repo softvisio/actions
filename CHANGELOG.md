@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.0.2 (2026-01-03)
+
+**Other changes:**
+
+- chore: add main action (● [2bba35f](https://github.com/softvisio/actions/commit/2bba35f); 👬 zdm)
+
+- chore: update package name (● [b30b64f](https://github.com/softvisio/actions/commit/b30b64f); 👬 zdm)
+
+- chore(metadata): update package metadata (● [56231b6](https://github.com/softvisio/actions/commit/56231b6); 👬 zdm)
+
+Compare with the previous release: [v1.0.1](https://github.com/softvisio/actions/compare/v1.0.1...v1.0.2)
+
 ### v1.0.1 (2026-01-03)
 
 **Bug fixes:**
