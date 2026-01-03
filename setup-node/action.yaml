@@ -23,4 +23,4 @@ runs:
         architecture: "${{ inputs.architecture }}"
         check-latest: "${{ inputs.check-latest }}"
 
-    - uses: softvisio/actions/setup-npm@main
+    - uses: softvisio/actions/setup-npm@v1

@@ -15,4 +15,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: softvisio/actions/release@main
+      - uses: softvisio/actions/release@v1
