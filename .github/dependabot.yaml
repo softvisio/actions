@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directories:
+      - /checkout
+      - /release
+      - /setup-node
+      - /setup-npm
+    schedule:
+      interval: daily
+      day: monday
+      time: 00:00
+      timezone: UTC
+    open-pull-requests-limit: 5
