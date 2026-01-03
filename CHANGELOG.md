@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.0.3 (2026-01-03)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update actions version (● [1e505d5](https://github.com/softvisio/actions/commit/1e505d5); 👬 zdm)
+
+**Other changes:**
+
+- chore: remove main action (● [0adee20](https://github.com/softvisio/actions/commit/0adee20); 👬 zdm)
+
+Compare with the previous release: [v1.0.2](https://github.com/softvisio/actions/compare/v1.0.2...v1.0.3)
+
 ### v1.0.2 (2026-01-03)
 
 **Other changes:**
