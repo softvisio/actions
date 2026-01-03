@@ -1,2 +1,7 @@
 release:
-  enabled: false
+  enabled: true
+
+meta:
+  dependabot:
+    github-actions:
+      actionsEnabled: true
