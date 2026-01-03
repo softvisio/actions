@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.1 (2026-01-03)
+
+**Bug fixes:**
+
+- \[PATCH] fix: add version to action spec (● [d4c108e](https://github.com/softvisio/actions/commit/d4c108e); 👬 zdm)
+
+Compare with the previous release: [v1.0.0](https://github.com/softvisio/actions/compare/v1.0.0...v1.0.1)
+
 ### v1.0.0 (2026-01-03)
 
 **Migration notes:**
