@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.5 (2026-01-05)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [42de9c9](https://github.com/softvisio/actions/commit/42de9c9); 👬 zdm)
+
+Compare with the previous release: [v1.0.4](https://github.com/softvisio/actions/compare/v1.0.4...v1.0.5)
+
 ### v1.0.4 (2026-01-05)
 
 **Other changes:**
