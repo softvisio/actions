@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.4 (2026-01-05)
+
+**Other changes:**
+
+- chore: update softvisio/actions version (● [0ceb889](https://github.com/softvisio/actions/commit/0ceb889); 👬 zdm)
+
+Compare with the previous release: [v1.0.3](https://github.com/softvisio/actions/compare/v1.0.3...v1.0.4)
+
 ### v1.0.3 (2026-01-03)
 
 **Bug fixes:**
