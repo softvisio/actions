@@ -5,9 +5,9 @@ runs:
   using: composite
 
   steps:
-    - uses: softvisio/actions/checkout@latest
+    - uses: softvisio/actions/checkout@v1
 
-    - uses: softvisio/actions/setup-node@latest
+    - uses: softvisio/actions/setup-node@v1
 
     - shell: bash
       run: |
