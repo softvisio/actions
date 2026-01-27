@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.0.6 (2026-01-27)
+
+**Bug fixes:**
+
+- \[PATCH] fix: set allowMajorTag (● [5f43739](https://github.com/softvisio/actions/commit/5f43739); 👬 zdm)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [67d8ad5](https://github.com/softvisio/actions/commit/67d8ad5); 👬 zdm)
+
+Compare with the previous release: [v1.0.5](https://github.com/softvisio/actions/compare/v1.0.5...v1.0.6)
+
 ### v1.0.5 (2026-01-05)
 
 **Other changes:**
