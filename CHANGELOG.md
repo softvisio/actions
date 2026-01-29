@@ -1,5 +1,11 @@
 # Changelog
 
+### v1.0.7 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v1.0.6](https://github.com/softvisio/actions/compare/v1.0.6...v1.0.7)
+
 ### v1.0.6 (2026-01-27)
 
 **Bug fixes:**
