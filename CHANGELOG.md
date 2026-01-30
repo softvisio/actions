@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.8 (2026-01-30)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update cli config (● [1f0034e](https://github.com/softvisio/actions/commit/1f0034e); 👬 zdm)
+
+Compare with the previous release: [v1.0.7](https://github.com/softvisio/actions/compare/v1.0.7...v1.0.8)
+
 ### v1.0.7 (2026-01-29)
 
 No changes since the previous release.
