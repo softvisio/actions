@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.0.10 (2026-03-20)
+
+**Other changes:**
+
+- build(deps): bump checkout\@5 (● [164d9b0](https://github.com/softvisio/actions/commit/164d9b0); 👬 zdm)
+
+- build(deps): bump checkout\@6 (● [c3d6c55](https://github.com/softvisio/actions/commit/c3d6c55); 👬 zdm)
+
+Compare with the previous release: [v1.0.9](https://github.com/softvisio/actions/compare/v1.0.9...v1.0.10)
+
 ### v1.0.9 (2026-03-06)
 
 **Other changes:**
