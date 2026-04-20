@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.11 (2026-04-20)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [184afd5](https://github.com/softvisio/actions/commit/184afd5); 👬 zdm)
+
+Compare with the previous release: [v1.0.10...v1.0.11](https://github.com/softvisio/actions/compare/v1.0.10...v1.0.11)
+
 ### v1.0.10 (2026-03-20)
 
 **Other changes:**
