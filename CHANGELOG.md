@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.13 (2026-05-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [3421055](https://github.com/softvisio/actions/commit/3421055); 👬 zdm)
+
+Compare with the previous release: [v1.0.12...v1.0.13](https://github.com/softvisio/actions/compare/v1.0.12...v1.0.13)
+
 ### v1.0.12 (2026-05-07)
 
 **Code refactoring:**
