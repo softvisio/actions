@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.12 (2026-05-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename softvisio-cli to scli (● [15ac7ae](https://github.com/softvisio/actions/commit/15ac7ae); 👬 zdm)
+
+Compare with the previous release: [v1.0.11...v1.0.12](https://github.com/softvisio/actions/compare/v1.0.11...v1.0.12)
+
 ### v1.0.11 (2026-04-20)
 
 **Code refactoring:**
