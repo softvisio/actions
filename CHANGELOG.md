@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.0.15 (2026-07-02)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix md \_ escape (● [cf90078](https://github.com/softvisio/actions/commit/cf90078); 👬 zdm)
+
+**Other changes:**
+
+- build(deps): bunp actions/checkout\@7 (● [3442c24](https://github.com/softvisio/actions/commit/3442c24); 👬 zdm)
+
+Compare with the previous release: [v1.0.14...v1.0.15](https://github.com/softvisio/actions/compare/v1.0.14...v1.0.15)
+
 ### v1.0.14 (2026-05-18)
 
 **Other changes:**
