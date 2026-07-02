@@ -150,7 +150,7 @@ Compare with the previous release: [v0.1.0](https://github.com/softvisio/actions
 
 - \[PATCH] fix: fix setup-npm action (● [6bdc96f](https://github.com/softvisio/actions/commit/6bdc96f), [b56e962](https://github.com/softvisio/actions/commit/b56e962), [bfc5265](https://github.com/softvisio/actions/commit/bfc5265), [0da9c07](https://github.com/softvisio/actions/commit/0da9c07), [003f050](https://github.com/softvisio/actions/commit/003f050), [cd3c0b9](https://github.com/softvisio/actions/commit/cd3c0b9); 👬 zdm)
 
-- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [315fc72](https://github.com/softvisio/actions/commit/315fc72); 👬 zdm)
+- \[PATCH] fix: remove NPM\_TOKEN\_GITHUB (● [315fc72](https://github.com/softvisio/actions/commit/315fc72); 👬 zdm)
 
 **Code refactoring:**
 
