@@ -11,5 +11,5 @@ runs:
 
     - shell: bash
       run: |
-        npm install -g @softvisio/cli
-        scli package publish --yes
+        npm install -g @corejslib/cli
+        ccli package publish --yes
