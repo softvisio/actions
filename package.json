@@ -4,7 +4,6 @@
     "private": true,
     "description": "GitHub actions library",
     "keywords": [
-        "softvisio",
         "github actions"
     ],
     "homepage": "https://github.com/softvisio/actions?tab=readme-ov-file#readme",
