@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.17 (2026-08-03)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [ae232d8](https://github.com/softvisio/actions/commit/ae232d8); 👬 zdm)
+
+Compare with the previous release: [v1.0.16...v1.0.17](https://github.com/softvisio/actions/compare/v1.0.16...v1.0.17)
+
 ### v1.0.16 (2026-08-02)
 
 **Other changes:**
