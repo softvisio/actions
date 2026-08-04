@@ -11,5 +11,5 @@ runs:
 
     - shell: bash
       run: |
-        npm install -g @corejslib/cli
+        npm install -g @corejslib/zcli
         zcli package publish --yes
