@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.18 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [377f9c1](https://github.com/softvisio/actions/commit/377f9c1), [4c4df1c](https://github.com/softvisio/actions/commit/4c4df1c), [07ab10f](https://github.com/softvisio/actions/commit/07ab10f), [1f54e04](https://github.com/softvisio/actions/commit/1f54e04); 👬 zdm)
+
+Compare with the previous release: [v1.0.17...v1.0.18](https://github.com/softvisio/actions/compare/v1.0.17...v1.0.18)
+
 ### v1.0.17 (2026-08-03)
 
 **Other changes:**
