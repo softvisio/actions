@@ -11,5 +11,5 @@ runs:
 
     - shell: bash
       run: |
-        npm install -g @corejslib/zcli
+        npm install -g @softvisio/zcli
         zcli package publish --yes
