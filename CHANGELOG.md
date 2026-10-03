@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.19 (2026-10-03)
+
+**Other changes:**
+
+- docs: correct escaped snake_case in md (● [aa444b7](https://github.com/softvisio/actions/commit/aa444b7); 👬 zdm)
+
+Compare with the previous release: [v1.0.18...v1.0.19](https://github.com/softvisio/actions/compare/v1.0.18...v1.0.19)
+
 ### v1.0.18 (2026-08-04)
 
 **Other changes:**
