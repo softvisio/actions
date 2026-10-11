@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.20 (2026-10-11)
+
+**Other changes:**
+
+- chore: configure GitHub Packages registries (● [5c686b0](https://github.com/softvisio/actions/commit/5c686b0); 👬 zdm)
+
+Compare with the previous release: [v1.0.19...v1.0.20](https://github.com/softvisio/actions/compare/v1.0.19...v1.0.20)
+
 ### v1.0.19 (2026-10-03)
 
 **Other changes:**

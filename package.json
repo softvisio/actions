@@ -1,6 +1,6 @@
 {
     "name": "@softvisio/actions",
-    "version": "1.0.19",
+    "version": "1.0.20",
     "private": true,
     "description": "GitHub actions library",
     "keywords": [
